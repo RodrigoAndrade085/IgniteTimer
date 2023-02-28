@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Desafio concluido do modulo 2 na trilha de ReactJS do ignite.
+Projeto desenvolvido no modulo 2 na trilha de ReactJS do ignite em 2023.
 
 ### :shoe: Dashboard:
 Dashboard: Pussui uma listagem de Cards possuindo um titulo, foto, preço, e um botao para adicionar ao carrinho, com um numeral ao lado indicando quantos daquele produto ja esta no carrinho, clicando no botão podemos adicionar o produto ao nosso carrinho caso não possua mais produto em estoque e apresentado uma mensagem com toast de erro.
