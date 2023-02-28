@@ -16,16 +16,13 @@ Carrinho: Tem os produtos que você escolheu na tela de dashboard, você pode au
 ### :computer: Rodando Projeto:
 
   Clone o repositório:  
-  `https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react.git`
+  `https://github.com/RodrigoAndrade085/IgniteTimer.git`
   
   Acesse a pasta do projeto:  
-  `cd Carrinho_de_compras_desafio03_ignite_react`
+  `cd IgniteTimer`
   
   Instale as dependências:  
   `yarn ou npm install`
 
-  Rode o server  
-  `yarn server`
-  
-  Rode o front  
-  `yarn start`
+  Rodo o projeto:  
+  `yarn dev`
