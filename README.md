@@ -12,7 +12,7 @@ Apos iniciar o timer começa uma contagem regressiva onde fica rodando mesmo qua
 ![dashboard](https://github.com/RodrigoAndrade085/IgniteTimer/blob/master/src/assets/clockStart.jpeg)
 
 ### :hourglass: History:
-Carrinho: Tem os produtos que você escolheu na tela de dashboard, você pode aumentar a quantidade ou diminuir caso ela seja diferente de 1, podendo tambem exclui-la, nessa tela podemos ver o subtotal e total, se auto ajustando conforme a quantidade e alterada.
+Carrinho: Nessa tela fica todo o historico de times ocorridos anterior ao atual, onde pode possuir o nome da tarefa a duração data iniciada e status como "Concluido", "Em andamento" e "Interrompido".
 ![History](https://github.com/RodrigoAndrade085/IgniteTimer/blob/master/src/assets/History.jpeg)
 
 ### :computer: Rodando Projeto:
