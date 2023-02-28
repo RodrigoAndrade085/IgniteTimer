@@ -5,7 +5,9 @@
 Projeto desenvolvido no modulo 2 na trilha de ReactJS do ignite em 2023.
 
 ### :hourglass: Dashboard:
-Dashboard: Pussui uma listagem de Cards possuindo um titulo, foto, preço, e um botao para adicionar ao carrinho, com um numeral ao lado indicando quantos daquele produto ja esta no carrinho, clicando no botão podemos adicionar o produto ao nosso carrinho caso não possua mais produto em estoque e apresentado uma mensagem com toast de erro.
+Dashboard: Nessa tela temos um time ronde podemos adicionar o tempo em minutos e o nome do projeto que esta ligado a esse tempo, existindo a regra que o tempo minimo a que pode ser adicionado e de 5min e no maximo 60min, enquanto não possuir um nome e um tempo o botão de começar fica desabilitado.
+
+Apos iniciar o timer começa uma contagem regressiva onde fica rodando mesmo quando o usuário não esta na tela o botão de "Começar" antes em verde muda para vermelho e escrito "Parar" onde o mesmo e utilizado para parar o timer.
 ![dashboard](https://github.com/RodrigoAndrade085/IgniteTimer/blob/master/src/assets/clock.jpeg)
 ![dashboard](https://github.com/RodrigoAndrade085/IgniteTimer/blob/master/src/assets/clockStart.jpeg)
 
